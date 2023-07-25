@@ -1,4 +1,5 @@
 Project 1- Power Bi Project – Sales Dashboard, “Superstore Sales Analysis” 
+
 Objective -
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
@@ -9,6 +10,7 @@ DESCRIPTION -
 •	Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
 
 Project 2 – Python Project, “ Diwali Sales Analysis ”
+
 •	Performed data cleaning and manipulation
 •	Performed exploratory data analysis (EDA) using pandas, matplotlib and libraries
 •	Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
